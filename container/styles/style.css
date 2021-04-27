@@ -1,0 +1,14 @@
+.card_collection{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.img_block img{
+    width: 20px;
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+}
